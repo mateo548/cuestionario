@@ -1,16 +1,16 @@
 1
 En tus palabras, ¿Qué es internet?
-2
+2una herramienta de ayuda
 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
-3
+3ayuda
 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
-4
+4con diversa informacion externa
 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
-5
+5llegar desde el artista
 Describe los protocolos que existen en internet, en específico HTTP y HTML
-6
+6como se le hace
 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
-7
+7y asi se instala visual estudio code
 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
-8
-¿Cómo funciona la búsqueda de google?
+8tener contraseñas en tus cuentas de git
+¿Cómo funciona la búsqueda de google?a partir del usuario
